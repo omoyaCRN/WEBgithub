@@ -1,0 +1,15 @@
+body{
+  background-color: cyan;
+}
+
+#contenedor {
+  background-color: white;
+}
+
+img {
+  width: 300px;
+}
+ p{
+   text-align: left;
+   font-size: 14px;
+ }
