@@ -1,0 +1,78 @@
+.fachada{
+  width: 200px;
+  height: 200px;
+  background: blue;
+  position: absolute;
+  left: 400px;
+  top: 300px;
+  border:solid 4px black;
+}
+
+.tejado{
+  width: 250px;
+  height: 70px;
+  background: red;
+  position: absolute;
+  left: 375px;
+  top: 230px;
+  border:solid 4px black;
+}
+
+.ventana1{
+  width: 50px;
+  height: 50px;
+  background: white;
+  position: absolute;
+  left: 425px;
+  top: 330px;
+  border:solid 4px black;
+}
+
+.ventana2{
+  width: 50px;
+  height: 50px;
+  background: white;
+  position: absolute;
+  left: 515px;
+  top: 330px;
+  border:solid 4px black;
+}
+
+.puerta{
+  width: 50px;
+  height: 70px;
+  background: green;
+  position: absolute;
+  left: 470px;
+  top: 430px;
+  border:solid 4px black;
+}
+.chimenea{
+  width: 30px;
+  height: 60px;
+  background: brown;
+  position: absolute;
+  left: 550px;
+  top: 170px;
+  border:solid 4px black;
+}
+
+#montaña1{
+  width: 600px;
+  height: 803px;
+  background: #D5CEAE;
+  position: absolute;
+  left: 200px;
+  top: 60px;
+  border-radius: 47% 53% 70% 30% / 100% 100% 0% 0% ;
+}
+
+#montaña2{
+  width: 600px;
+  height: 803px;
+  background: #D5CEAE;
+  position: absolute;
+  left: 400px;
+  top: 60px;
+  border-radius: 47% 53% 70% 30% / 100% 100% 0% 0% ;
+}
