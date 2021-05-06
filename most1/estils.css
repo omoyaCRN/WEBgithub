@@ -1,0 +1,93 @@
+body{
+  background-color: cyan;
+
+}
+
+.contorno{
+  width: 600px;
+  height: 900px;
+  background-color: #a6c1d6;
+  border: solid black 6px;
+  border-radius: 250px 250px 100px 100px;
+  margin: 0;
+  margin: 0 auto;
+
+}
+#ojo{
+  width: 200px;
+  height: 200px;
+  background-color: #fefac2;
+  border-radius: 50%;
+  border: solid black 6px;
+  position: relative;
+}
+
+.ojo{
+
+  top: 275px;
+  left: -100px;
+}
+
+.ojo2{
+
+  top: 65px;
+  left: 90px;
+}
+.ojo:before, .ojo2:before{
+  width: 50px;
+  height: 50px;
+  background-color: #040407;
+  border-radius: 50%;
+  position: absolute;
+  content: '';
+  left: 120px;
+  top: 90px;
+}
+
+.boca{
+  width: 400px;
+  height: 200px;
+  background-color: #fefac2;
+  border-radius: ;
+  border: solid black 6px;
+  position: relative;
+  top:130px;
+  left: -6px;
+  border:solid black 6px;
+  border-radius: 0 50px 50px 0
+}
+
+hr {
+  height: 10px;
+  background-color: black;
+  border: solid black;
+  position:relative;
+  margin-top: 40px;
+}
+
+.vr1{
+  width: 10px;
+  background-color: black;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 20px;
+  }
+  .vr2{
+    width: 10px;
+    background-color: black;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left:150px;
+
+  }
+  .vr3{
+    width: 10px;
+    background-color: black;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left:300px;
+
+  }
