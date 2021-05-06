@@ -1,0 +1,113 @@
+body{
+  background-color: cyan;
+  margin: 0px;
+  padding: 0px;
+  font-family: helvetica, sans-serif;
+}
+
+div{
+  background-color: pink;
+
+}
+
+h1{
+  margin: 0 25px;
+  margin-left: 25px;
+  text-align: center;
+  width: 350px;
+}
+
+p{
+  color:#666;
+  font-size: 18px;
+  line-height: 22px;
+  width: 350px;
+
+}
+
+.img{
+  background-repeat: no-repeat;
+  background-position: 450px;
+}
+
+
+ul{
+  text-align: right;
+}
+li{
+  list-style: none;
+  display: inline;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+
+#menu{
+  background-color: ;
+  height: 40px;
+  background-image: url(url(img/curator-short.png);
+  background: #FFF;
+
+}
+
+
+
+#coneix{
+  height: 550px;
+  background-color: #6C3;
+  background-image: url(img/img-hero-full-list.png);
+
+}
+
+#tot{
+  height: 641px;
+  background-color: #FFF;
+  background-image: url(img/allinone.jpg);
+
+
+}
+
+#util{
+  height:500px;
+  background-color: #333333;
+  background-image: url(img/curator-short.png);
+
+
+}
+
+#rapid{
+  height: 550px;
+  background-color: #EEECEE;
+  background-image: url(img/img-hero-full-list.png);
+
+
+}
+
+#facil{
+  height: 550px;
+  background-color: #6C3;
+  background-image: url(img/mobile-share.png);
+
+
+}
+
+#arreu{
+  height: 643px;
+  background-color: #EEECEE;
+  background-image: url(img/anywhere.png);
+
+
+}
+
+#footer{
+  height: 200px;
+  background-color: #333333;
+  background-image: url(img/appstore.png);
+  background-image: url(img/googleplay);
+  text-align: center;
+
+}
+
+img{
+  margin:75px 25px;
+}
